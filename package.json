@@ -1,0 +1,21 @@
+{
+  "name": "com.binarycats.undonity",
+  "version": "1.0.0",
+  "displayName": "Undonity",
+  "description": "Record and undo changes to objects",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/MrBinaryCats/Undonity#readme",
+  "changelogUrl": "https://github.com/MrBinaryCats/Undonity",
+  "licensesUrl": "https://github.com/MrBinaryCats/Undonity",
+  "keywords": [
+    "undo",
+    "redo",
+    "record",
+    "utility"
+  ],
+  "author": {
+    "name": "BinaryCats",
+    "email": "david@binarycats.co.uk",
+    "url": "https://github.com/MrBinaryCats"
+  }
+}
